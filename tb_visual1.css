@@ -43,8 +43,6 @@ html {
     background-position:
 }
 
-
-
 /* Article Styles */
 article {
     background: url(tb_back2.png) bottom right/ 15% no-repeat content-box, url(tb_back3.png) bottom left/ 15% no-repeat content-box, url(tb_back4.png) 100%/ cover no-repeat, rgb(211, 211, 211);
@@ -62,8 +60,6 @@ body {
     box-shadow: rgb(51, 51, 51) 15px 0px 25px, rgb(51, 51, 51) -15px 0px 25px;
 }
 
-
-
 /* Aside Styles */
 aside {
     background: radial-gradient(white, rgb(151, 222, 151), rgb(81, 125, 81));
@@ -71,7 +67,6 @@ aside {
     border-radius: 30px;
     box-shadow: rgba(51, 91, 51, 0.4) 0px 0px 20px 10px;
 }
-
 
 /* Footer Styles */
 footer {
